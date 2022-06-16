@@ -1,0 +1,12 @@
+{
+  "name": "blogs-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/asamiz/blogs-app.git",
+  "author": "Ahmed Sami <ahmed.sami.elsherif@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "json-server": "^0.17.0",
+    "json-server-auth": "^2.1.0"
+  }
+}
